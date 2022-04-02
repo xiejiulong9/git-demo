@@ -6,3 +6,4 @@ hello git
 hello git
 hello git   master
 git-push-success
+changed by git-clone directory
