@@ -5,10 +5,5 @@ hello git
 hello git
 hello git
 hello git   master
-git-push-success
-changed by git-clone directory
-111111111111 by ssh
-test by vscode  
-i test again
-now the is last
+vscode-changed
 
